@@ -10,8 +10,18 @@ A real-time device location tracker built with Node.js, Express, and Socket.IO. 
 
 ---
 
-## Demo
-*(Optional: Embed a GIF or link to a live demo if available)*
+#Project Structure
+Real-Time-Device-Detection/
+├── public/  
+│   ├── index.html          <!-- Frontend UI -->
+│   ├── main.js             <!-- Client-side JS (Socket.IO + Leaflet) -->
+│   └── styles.css          <!-- Basic styling -->
+├── src/  
+│   ├── server.js           <!-- Express + Socket.IO setup -->
+│   └── routes/             <!-- Optional: API endpoints -->
+├── package.json
+└── README.md
+
 
 ---
 
