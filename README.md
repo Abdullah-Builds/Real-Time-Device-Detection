@@ -30,6 +30,7 @@ Real-Time-Device-Detection/
 └── README.md           # Documentation file
 
 
+```
 
 ### Explanation:
 - **public/** → Contains all frontend assets (HTML, CSS, client-side JS).  
