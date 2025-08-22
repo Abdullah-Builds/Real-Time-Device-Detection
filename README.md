@@ -16,18 +16,18 @@ It uses the browser’s **Geolocation API** to capture user location and display
 ## 📂 Project Structure
 
 ```text
-Real-Time-Device-Detection/
-├── public/
-│   ├── index.html      # Frontend UI
-│   ├── main.js         # Client-side JS (Socket.IO + Leaflet)
-│   └── styles.css      # Basic styling for the map and UI
-│
-├── src/
-│   ├── server.js       # Main server file (Express + Socket.IO setup)
-│   └── routes/         # (Optional) API routes for extensions
-│
-├── package.json        # Project metadata and dependencies
-└── README.md           # Documentation file
+├── .gitignore
+├── README.md
+├── app.js
+├── package-lock.json
+├── package.json
+├── public
+    ├── css
+    │   └── style.css
+    └── js
+    │   └── script.js
+└── views
+    └── index.ejs
 
 
 ```
