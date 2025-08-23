@@ -32,6 +32,7 @@ It uses the browser’s **Geolocation API** to capture user location and display
 
 ```
 
+
 ### Explanation:
 - **public/** → Contains all frontend assets (HTML, CSS, client-side JS).  
 - **index.html** → The main UI where the map and location tracking is displayed.  
@@ -65,3 +66,7 @@ Make sure you have installed:
    ```bash
    git clone https://github.com/Abdullah-Builds/Real-Time-Device-Detection.git
    cd Real-Time-Device-Detection
+
+<img width="866" height="729" alt="Screenshot 2025-08-22 172116" src="https://github.com/user-attachments/assets/b499224f-abcb-40fb-a356-4f6263c68983" />
+
+<img width="1909" height="957" alt="Screenshot 2025-08-22 172321" src="https://github.com/user-attachments/assets/5a789d21-f2eb-412c-b425-f9a333fd0194" />
